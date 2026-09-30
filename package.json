@@ -1,0 +1,23 @@
+{
+  "name": "product-api-caching-workshop",
+  "version": "1.0.0",
+  "description": "Node.js and Express.js application implementing in-memory product API caching with TTL and cache invalidation.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "caching",
+    "ttl",
+    "middleware",
+    "rest-api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
